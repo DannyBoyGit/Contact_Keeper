@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Contact manager app",
   "engines": {
-    "node": "10.16.0"
+    "node": "10.16.0",
+    "npm": "6.11.2"
   },
   "main": "server.js",
   "scripts": {
