@@ -3,6 +3,11 @@ node_modules/
 
 /client/build
 
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+
 .DS_Store
 /client/.env.local
 /client/.env.development.local
